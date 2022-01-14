@@ -1,5 +1,5 @@
-Replace this with your project title
-====================================
+CIS 385 Power BI Project
+========================
 
 .. toctree::
    :maxdepth: 2
@@ -7,4 +7,4 @@ Replace this with your project title
 
    subject/index
    another_subject/index
-   more_stuff/index
+   example/index
