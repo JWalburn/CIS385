@@ -2,8 +2,8 @@ Power BI Project CIS 385
 ========================
 
 My name is Jason Walburn. I will be documenting my Power BI project here for
-CIS 385. During the project I plan on learning the basics of Power BI for data
-for data analysis.
+CIS 385. During the project I plan on learning the basics of Power BI for
+data analysis.
 
 Introduction
 ------------
@@ -24,8 +24,9 @@ from Udemy. I will quickly outline the course path below.
 
 Installing Power BI
 -------------------
-.. figure:: Microsoft_P_BI.PNG
+.. image:: powerbidownload.png
    :width: 50%
+
 
 Aliquam tempus urna diam, eu sagittis magna porta eu. Fusce aliquam nunc vitae
 lectus vulputate, quis commodo augue molestie. Vestibulum fermentum nunc odio,
