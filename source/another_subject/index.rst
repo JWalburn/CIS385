@@ -1,5 +1,5 @@
-My Subject
-==========
+My Subject 1
+============
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris maximus ante id
 efficitur vestibulum. Praesent lacinia tellus cursus tortor condimentum, nec
