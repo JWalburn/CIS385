@@ -10,8 +10,8 @@ Introduction
 Power BI is according to Microsoft " A Business analytics solution that lets you
 visualize your data and share insights across your organization. Connect
 hundreds of data sources and bring your data to life with live dash boards and
-report."  The first part of the project i plan on working though a course that
-from Udemy. I will quickly outline the course path below.
+report."  The first part of the project I plan on working though a course
+from Udemy. Below is a quick outline the course path below.
 
 * Section 1 : Introduction
 * Section 2 : Intro Power BI
@@ -27,14 +27,11 @@ Installing Power BI
 .. image:: powerbidownload.png
    :width: 50%
 
+Go to https://powerbi.microsoft.com/en-us/desktop/
 
-Aliquam tempus urna diam, eu sagittis magna porta eu. Fusce aliquam nunc vitae
-lectus vulputate, quis commodo augue molestie. Vestibulum fermentum nunc odio,
-et dapibus eros porttitor at. Phasellus auctor, elit nec ultricies fermentum,
-sem augue volutpat mi, eget malesuada metus purus ut dolor. Aenean posuere
-tortor ligula, vitae ultrices tellus eleifend ac. Morbi velit magna,
-sollicitudin vitae aliquet sed, tincidunt non enim. Vivamus tempus eros ac
-purus varius suscipit. Aliquam eu egestas metus.
+Select Download free
+
+It will redirect to Microsoft Store to allow you to start download.
 
 Morbi augue turpis, imperdiet non turpis quis, consequat varius quam.
 Suspendisse imperdiet dapibus arcu viverra aliquam. Fusce eu mauris turpis.
