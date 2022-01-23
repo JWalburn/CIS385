@@ -20,7 +20,7 @@ from Udemy. Below is a quick outline the course path below.
 * Section 5 : Creating Visuals
 * Section 6 : Cloud with Power BI
 * Section 7 : Other Data Sources
-* Section 8 : Staying up to date Power BI
+* Section 8 : Staying up to date Power BI.
 
 Installing Power BI
 -------------------
