@@ -1,37 +1,31 @@
-My Subject
-==========
+Power BI Project CIS 385
+========================
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris maximus ante id
-efficitur vestibulum. Praesent lacinia tellus cursus tortor condimentum, nec
-tempus nibh aliquam. Sed id pulvinar risus. Morbi elementum odio iaculis massa
-fermentum, vitae posuere urna interdum. Quisque eu massa sapien. Ut vel nunc sit
-amet enim fermentum ultricies pharetra sit amet est.
+My name is Jason Walburn. I will be documenting my Power BI project here for
+CIS 385. During the project I plan on learning the basics of Power BI for data
+for data analysis.
 
-Subheading
-----------
+Introduction
+------------
+Power BI is according to Microsoft " A Business analytics solution that lets you
+visualize your data and share insights across your organization. Connect
+hundreds of data sources and bring your data to life with live dash boards and
+report."  The first part of the project i plan on working though a course that
+from Udemy. I will quickly outline the course path below.
 
-Cras pharetra ut felis nec
-feugiat. Donec ut mauris tristique, fermentum ipsum et, laoreet dolor. Vivamus
-congue nisi id elit fringilla varius. Quisque maximus nec nisl id egestas. Fusce
-sagittis, metus at porta eleifend, dui massa ullamcorper risus, in tempus sem
-quam id sapien. Vivamus tempor ligula id nunc lobortis posuere. Sed eget ipsum
-velit. Nulla vulputate ipsum sed magna porttitor, sit amet elementum ante ultricies.
-Nam scelerisque lectus sodales erat iaculis, vitae pellentesque magna facilisis.
+* Section 1 : Introduction
+* Section 2 : Intro Power BI
+* Section 3 : Working in Query Editor
+* Section 4 : Understanding the data model
+* Section 5 : Creating Visuals
+* Section 6 : Cloud with Power BI
+* Section 7 : Other Data Sources
+* Section 8 : Staying up to date Power BI
 
-Aliquam ex lorem, molestie at finibus quis, ullamcorper et purus. Pellentesque
-habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
-Orci varius natoque penatibus et magnis dis parturient montes, nascetur
-ridiculus mus. Vivamus dictum interdum pulvinar.
-
-In molestie augue id orci
-aliquet vehicula. Donec ullamcorper, lectus in molestie consequat, magna erat
-rhoncus sapien, sit amet semper ante elit non purus. Cras ac laoreet neque.
-Aenean maximus lacus elementum neque ultricies, tristique tincidunt lacus
-lobortis. Proin molestie bibendum neque et euismod. Aliquam eu dictum diam.
-Pellentesque quis porta urna.
-
-Subheading
-----------
+Installing Power BI
+-------------------
+.. figure:: Microsoft_P_BI.PNG
+   :width: 50%
 
 Aliquam tempus urna diam, eu sagittis magna porta eu. Fusce aliquam nunc vitae
 lectus vulputate, quis commodo augue molestie. Vestibulum fermentum nunc odio,
