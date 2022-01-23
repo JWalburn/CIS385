@@ -24,7 +24,7 @@ from Udemy. Below is a quick outline the course path below.
 
 Installing Power BI
 -------------------
-.. image:: powerbidownload.png
+.. image:: power.png
    :width: 50%
 
 Go to https://powerbi.microsoft.com/en-us/desktop/
