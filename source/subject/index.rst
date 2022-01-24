@@ -33,25 +33,14 @@ Select Download free
 
 It will redirect to Microsoft Store to allow you to start download.
 
-Morbi augue turpis, imperdiet non turpis quis, consequat varius quam.
-Suspendisse imperdiet dapibus arcu viverra aliquam. Fusce eu mauris turpis.
-Nullam auctor, purus et imperdiet tristique, lacus lorem vehicula sapien,
-a tempus quam ex vitae mi. Cras nec lobortis mi. Integer ultricies ornare
-sagittis. Praesent elementum sem justo, vel rhoncus orci fringilla vitae.
-Sed gravida urna neque, vel convallis metus dapibus ut. Mauris euismod quam
-ante, quis interdum erat viverra id. Aliquam bibendum laoreet odio at imperdiet.
-Morbi placerat, leo id tincidunt iaculis, nulla nunc luctus massa, et vulputate
-nisi est et nibh. In gravida ut ligula non sodales. Phasellus porttitor varius
-iaculis.
+After downloading open Power BI open a new project
 
-Maecenas malesuada blandit tellus, id fringilla sem tempor eget. Morbi maximus
-euismod bibendum. Maecenas sit amet dolor ut orci tristique elementum.
-Suspendisse scelerisque porta metus, at tincidunt mi. Duis et mauris at enim
-finibus maximus. Nunc vel justo ex.
+.. image:: p1.png
+    :width: 50%
 
-Vivamus ultricies eros ante, nec egestas
-lorem fermentum id. Aliquam erat volutpat. Aenean tempus eu mi a elementum.
-Donec sit amet iaculis sapien. Proin imperdiet hendrerit sem quis tempus.
-Etiam metus augue, ornare consequat magna ut, malesuada mollis erat. Etiam
-porta efficitur sapien sed congue. In tristique est urna, sit amet varius
-enim finibus sed.
+After starting anew project we will need to add data sources.
+
+Go to home ribbon "get data" click on the source you are going to use.
+
+
+
