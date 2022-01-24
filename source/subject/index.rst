@@ -33,7 +33,7 @@ Select Download free
 
 It will redirect to Microsoft Store to allow you to start download.
 
-After downloading open Power BI open a new project
+After downloading open Power BI and a new project
 
 .. image:: p1.png
     :width: 50%
