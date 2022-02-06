@@ -1,7 +1,7 @@
 Power BI Project
 ================
 
-  My subject is on how to use Power BI I am working on a project to learn how to
+My subject is on how to use Power BI. I am working on a project to learn how to
 utilize the tool for data analysis. This information I will learn though this
 project will be useful at my place of employment as we are transitioning to
 Power BI for numerous reports.
