@@ -7,7 +7,7 @@ project will be useful at my place of employment as we are transitioning to
 Power BI for numerous reports.
 
 SSA Name Project
-----------
+----------------
 
 I found and downloaded the information for the project from the
 SSA website https://www.ssa.gov/oact/babynames/limits.html  This data was in
