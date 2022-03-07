@@ -6,21 +6,23 @@ utilize the tool for data analysis. This information I will learn though this
 project will be useful at my place of employment as we are transitioning to
 Power BI for numerous reports.
 
-Subheading
+SSA Name Project
 ----------
 
-Cras pharetra ut felis nec
-feugiat. Donec ut mauris tristique, fermentum ipsum et, laoreet dolor. Vivamus
-congue nisi id elit fringilla varius. Quisque maximus nec nisl id egestas. Fusce
-sagittis, metus at porta eleifend, dui massa ullamcorper risus, in tempus sem
-quam id sapien. Vivamus tempor ligula id nunc lobortis posuere. Sed eget ipsum
-velit. Nulla vulputate ipsum sed magna porttitor, sit amet elementum ante ultricies.
-Nam scelerisque lectus sodales erat iaculis, vitae pellentesque magna facilisis.
+I found and downloaded the information for the project from the
+SSA website https://www.ssa.gov/oact/babynames/limits.html  This data was in
+a zip file as a collection of CSV files with name data for each year in
+corresponding files.  This presented the first new task. I needed to find
+information on how to load all the files at once. Most of my previous projects
+did not come with the number of files that were in this collection. I did not
+want to load each file individually as this would take a great deal of time.
+When you open a new project in Power Bi on the home tab there is a dropdown
+list under “Get data”. In this dropdown, you would usually pick the type of
+file you are trying to load.  However, when you want to load multiple files at
+once you choose more at the bottom of the dropdown.
 
-Aliquam ex lorem, molestie at finibus quis, ullamcorper et purus. Pellentesque
-habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
-Orci varius natoque penatibus et magnis dis parturient montes, nascetur
-ridiculus mus. Vivamus dictum interdum pulvinar.
+.. image:: power.png
+   :width: 50%
 
 In molestie augue id orci
 aliquet vehicula. Donec ullamcorper, lectus in molestie consequat, magna erat
