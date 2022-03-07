@@ -100,8 +100,9 @@ to be filtered to be useful.
 .. image:: getdata1.png
    :width: 50%
 
- I choose to make the chart filter with the basic filer option for one name
-“Jason”. Then Added Year to the X-axis and QTY (sum) of each year on the Y-axis.
+I choose to make the chart filter with the basic filer option for one
+name “Jason”. Then Added Year to the X-axis and QTY (sum) of each year on the
+Y-axis.
 
 .. image:: getdata1.png
    :width: 50%
