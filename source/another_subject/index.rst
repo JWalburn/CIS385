@@ -21,7 +21,7 @@ list under “Get data”. In this dropdown, you would usually pick the type of
 file you are trying to load.  However, when you want to load multiple files at
 once you choose more at the bottom of the dropdown.
 
-.. image:: power.png
+.. image:: getdata1.png
    :width: 50%
 
 In molestie augue id orci
