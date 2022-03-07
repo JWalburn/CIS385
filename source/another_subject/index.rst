@@ -27,14 +27,14 @@ once you choose more at the bottom of the dropdown.
 Once you have selected the “More” s at the bottom it will open a new pane,
 where you will select the folder.  Then press “ok”
 
-.. image:: getdata1.png
+.. image:: folder.png
    :width: 50%
 
 This will load the names and ask if you want to combine the files at this time.
 We are going to work with the data first in the query editor, so we want to
 press “transform data”.
 
-.. image:: getdata1.png
+.. image:: ssafolder.png
    :width: 50%
 
 Once the query editor opens with the files, we will work on changing the data
@@ -50,7 +50,7 @@ sure if it would work but the I choose between and used the first characters of
 the file “yob” as the first delimiter and “.” as the second.   This left only
 the “year” in the form of text in the column.
 
-.. image:: getdata1.png
+.. image:: ssadata1.png
    :width: 50%
 
 Next, we will add a custom column to display the content of the files,
@@ -59,14 +59,14 @@ individual file information.  We will accomplish this by adding a custom column
 in the “add column” tab using = Csv.document([Content]) as the formula for the
 column.  Then click “OK”
 
-.. image:: getdata1.png
+.. image:: ssadelimiters.png
    :width: 50%
 
 We then will get rid of the unneeded columns by deleting them leaving only the
 content and the name column.  Select the two columns that you want to keep,
 right-click and choose “remove other columns”
 
-.. image:: getdata1.png
+.. image:: customcolumn.png
    :width: 50%
 
 Next click on the column that you added with the content and unselect
