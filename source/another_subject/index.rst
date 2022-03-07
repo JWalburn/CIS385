@@ -40,7 +40,7 @@ press “transform data”.
 Once the query editor opens with the files, we will work on changing the data
 into the form we would like to make working with it easier.
 
-.. image:: getdata1.png
+.. image:: queryeditorfolder.png
    :width: 50%
 
 First, we will modify the file name by removing the information before and
@@ -50,7 +50,7 @@ sure if it would work but the I choose between and used the first characters of
 the file “yob” as the first delimiter and “.” as the second.   This left only
 the “year” in the form of text in the column.
 
-.. image:: ssadata1.png
+.. image:: qeditordelimiter.png
    :width: 50%
 
 Next, we will add a custom column to display the content of the files,
@@ -59,27 +59,27 @@ individual file information.  We will accomplish this by adding a custom column
 in the “add column” tab using = Csv.document([Content]) as the formula for the
 column.  Then click “OK”
 
-.. image:: ssadelimiters.png
+.. image:: ccqe.png
    :width: 50%
 
 We then will get rid of the unneeded columns by deleting them leaving only the
 content and the name column.  Select the two columns that you want to keep,
 right-click and choose “remove other columns”
 
-.. image:: customcolumn.png
+.. image:: rc.png
    :width: 50%
 
 Next click on the column that you added with the content and unselect
 “use original column name as prefix”
 
-.. image:: getdata1.png
+.. image:: prefixc.png
    :width: 50%
 
 Now you should have the data in a form that is useable. The last couple things
 we will do is to remain the columns to represent the data and change the type to
 match.
 
-.. image:: getdata1.png
+.. image:: renamec.png
    :width: 50%
 
 Renaming the columns and changing types is very easy just right click on each
@@ -87,7 +87,7 @@ column and choose either rename and or change type.   Once complete click”
 close and apply”. This should close the query editor and open the Power Bi
 project in the data view.
 
-.. image:: getdata1.png
+.. image:: changetype.png
    :width: 50%
 
 Now that we have the data loaded into the project, we can start to build some
@@ -97,14 +97,14 @@ chart by having the bar chart selected and clicking on the fields tab.
 I chose Name, Qty, Year. The information is too broad for the chart and needs
 to be filtered to be useful.
 
-.. image:: getdata1.png
+.. image:: barc.png
    :width: 50%
 
 I choose to make the chart filter with the basic filer option for one
 name “Jason”. Then Added Year to the X-axis and QTY (sum) of each year on the
 Y-axis.
 
-.. image:: getdata1.png
+.. image:: chartdata.png
    :width: 50%
 
 This chart shows how many people were born each year with the first name Jason.
