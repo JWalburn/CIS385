@@ -24,12 +24,92 @@ once you choose more at the bottom of the dropdown.
 .. image:: getdata1.png
    :width: 50%
 
-In molestie augue id orci
-aliquet vehicula. Donec ullamcorper, lectus in molestie consequat, magna erat
-rhoncus sapien, sit amet semper ante elit non purus. Cras ac laoreet neque.
-Aenean maximus lacus elementum neque ultricies, tristique tincidunt lacus
-lobortis. Proin molestie bibendum neque et euismod. Aliquam eu dictum diam.
-Pellentesque quis porta urna.
+Once you have selected the “More” s at the bottom it will open a new pane,
+where you will select the folder.  Then press “ok”
+
+.. image:: getdata1.png
+   :width: 50%
+
+This will load the names and ask if you want to combine the files at this time.
+We are going to work with the data first in the query editor, so we want to
+press “transform data”.
+
+.. image:: getdata1.png
+   :width: 50%
+
+Once the query editor opens with the files, we will work on changing the data
+into the form we would like to make working with it easier.
+
+.. image:: getdata1.png
+   :width: 50%
+
+First, we will modify the file name by removing the information before and
+after the year so we can use that information in our project.  Choose the
+“Transform” tab at the top and extract to choose the delimiters used. I was not
+sure if it would work but the I choose between and used the first characters of
+the file “yob” as the first delimiter and “.” as the second.   This left only
+the “year” in the form of text in the column.
+
+.. image:: getdata1.png
+   :width: 50%
+
+Next, we will add a custom column to display the content of the files,
+currently, it is only showing information viewable from the folder, not the
+individual file information.  We will accomplish this by adding a custom column
+in the “add column” tab using = Csv.document([Content]) as the formula for the
+column.  Then click “OK”
+
+.. image:: getdata1.png
+   :width: 50%
+
+We then will get rid of the unneeded columns by deleting them leaving only the
+content and the name column.  Select the two columns that you want to keep,
+right-click and choose “remove other columns”
+
+.. image:: getdata1.png
+   :width: 50%
+
+Next click on the column that you added with the content and unselect
+“use original column name as prefix”
+
+.. image:: getdata1.png
+   :width: 50%
+
+Now you should have the data in a form that is useable. The last couple things
+we will do is to remain the columns to represent the data and change the type to
+match.
+
+.. image:: getdata1.png
+   :width: 50%
+
+Renaming the columns and changing types is very easy just right click on each
+column and choose either rename and or change type.   Once complete click”
+close and apply”. This should close the query editor and open the Power Bi
+project in the data view.
+
+.. image:: getdata1.png
+   :width: 50%
+
+Now that we have the data loaded into the project, we can start to build some
+visuals with it.  I would start by selecting a basic bar chart from the
+“Visualizations” on the right. Now choose the data we are going to use in the
+chart by having the bar chart selected and clicking on the fields tab.
+I chose Name, Qty, Year. The information is too broad for the chart and needs
+to be filtered to be useful.
+
+.. image:: getdata1.png
+   :width: 50%
+
+ I choose to make the chart filter with the basic filer option for one name
+“Jason”. Then Added Year to the X-axis and QTY (sum) of each year on the Y-axis.
+
+.. image:: getdata1.png
+   :width: 50%
+
+This chart shows how many people were born each year with the first name Jason.
+It shows that the name was most popular in the 1970s and started to reduce after
+that decade. It is still more popular today than before the 1970s.
+
 
 Subheading
 ----------
